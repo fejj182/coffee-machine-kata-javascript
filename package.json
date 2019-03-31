@@ -1,0 +1,22 @@
+{
+  "name": "coffee-machine",
+  "version": "1.0.0",
+  "description": "Coffee machine kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fejj182/coffee-machine-kata-javascript.git"
+  },
+  "author": "Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fejj182/coffee-machine-kata-javascript/issues"
+  },
+  "homepage": "https://github.com/fejj182/coffee-machine-kata-javascript#readme",
+  "dependencies": {
+    "jest": "^24.5.0"
+  }
+}
